@@ -1,0 +1,87 @@
+# Ad kitchen line — Generative Engine Optimization Map
+
+> A מסחר ומכירות business.
+
+---
+
+## Pages
+
+### בית
+https://ad-kitchen-line-56985a3d.zappy5.app
+
+### אודות
+https://ad-kitchen-line-56985a3d.zappy5.app/about
+
+### אוספים
+https://ad-kitchen-line-56985a3d.zappy5.app/collections
+
+### צור קשר
+https://ad-kitchen-line-56985a3d.zappy5.app/contact
+
+### Products
+https://ad-kitchen-line-56985a3d.zappy5.app/products
+המוצרים שלנו - Ad kitchen line
+
+### Cart
+https://ad-kitchen-line-56985a3d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ad-kitchen-line-56985a3d.zappy5.app/checkout
+תשלום
+
+### Login
+https://ad-kitchen-line-56985a3d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ad-kitchen-line-56985a3d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ad-kitchen-line-56985a3d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ad-kitchen-line-56985a3d.zappy5.app/product/:slug
+פרטי המוצר - Ad kitchen line
+
+### Category
+https://ad-kitchen-line-56985a3d.zappy5.app/category/:slug
+מוצרים - Ad kitchen line
+
+## Legal & Policy
+
+### Privacy Policy
+https://ad-kitchen-line-56985a3d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ad-kitchen-line-56985a3d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ad-kitchen-line-56985a3d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ad kitchen line
+Ad kitchen line is a business in the מסחר ומכירות industry.
+
+## Target Audience
+- מקצוענים קולינריים
+- חובבי בישול ביתי
+- קונים מתנות
+
+## Industry
+מסחר ומכירות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ad-kitchen-line-56985a3d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ad-kitchen-line-56985a3d.zappy5.app/robots.txt

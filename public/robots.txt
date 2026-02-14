@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ad-kitchen-line-56985a3d.zappy5.app/sitemap.xml
